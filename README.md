@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at (No such projects yet.)
+- 👨‍💻 All of my projects are available at Github
 
 - 💬 Ask me about **Python**
 

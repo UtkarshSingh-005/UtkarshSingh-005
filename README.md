@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/singhutkarsh005" target="blank"><img src="https://img.shields.io/twitter/follow/singhutkarsh005?logo=twitter&style=for-the-badge" alt="singhutkarsh005" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python****HTML****CSS****Java Script**
 
 - 👨‍💻 All of my projects are available at Github
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python****HTML****CSS****Java Script**
 
 - 📫 How to reach me **utkarshs.0303@gmail.com**
 
